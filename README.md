@@ -18,6 +18,11 @@ It might be useful to also look at the official implementation of
 which uses [Eigen](https://eigen.tuxfamily.org/)
 for computing matrix products.
 
+## Potential new backends
+
+A (non-exhaustive) list of potential new backends that could be implemented is
+given in [Issues](https://github.com/hgb-bin-proteomics/CandidateVectorSearch_template/issues).
+
 ## Citing
 
 If you are using [parts of] *CandidateVectorSearch* or this template please cite:
