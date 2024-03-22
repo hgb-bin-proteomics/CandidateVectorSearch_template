@@ -9,8 +9,8 @@ A demonstration of this example implementation is given in `spmv_example.md`.
 
 Users do not need to implement every function in `VectorSearch/dllmain.cpp` but
 simply choose the one which function signature fits best to their use case. The
-implemented function can than be called from *CandidateSearch* or *MS Annika*
-using the parameter value that maps to that function (given in the functions
+implemented function can then be called from *CandidateSearch* or *MS Annika*
+using the parameter value that maps to that function (given in the function's
 documentation).
 
 It might be useful to also look at the official implementation of
