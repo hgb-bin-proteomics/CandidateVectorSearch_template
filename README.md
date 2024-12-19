@@ -25,10 +25,13 @@ given in [Issues](https://github.com/hgb-bin-proteomics/CandidateVectorSearch_te
 
 ## Citing
 
-If you are using [parts of] *CandidateVectorSearch* or this template please cite:
+If you are using [parts of] *CandidateVectorSearch* or this template please cite this [publication](https://doi.org/10.1038/s42004-024-01386-x):
 
 ```
-MS Annika 3.0 (publication wip)
+Proteome-wide non-cleavable crosslink identification with MS Annika 3.0 reveals the structure of the C. elegans Box C/D complex
+Micha J. Birklbauer, Fränze Müller, Sowmya Sivakumar Geetha, Manuel Matzinger, Karl Mechtler, and Viktoria Dorfer
+Communications Chemistry 2024 7 (300)
+DOI: 10.1038/s42004-024-01386-x
 ```
 
 ## License
